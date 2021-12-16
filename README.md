@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shannu9401
+- 👋 Hi, I’m @Shanmukhi
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning data analysis 
 
